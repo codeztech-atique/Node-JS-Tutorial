@@ -1,0 +1,14 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "main": "asyncawait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atique",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

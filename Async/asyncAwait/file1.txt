@@ -1,0 +1,4 @@
+
+File 1
+
+I am the content from the file 1

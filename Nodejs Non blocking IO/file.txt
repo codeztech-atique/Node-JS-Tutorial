@@ -1,0 +1,12 @@
+My Youtube blog
+
+By ATIQUE AHMED | Published: SEPT 7, 2019
+Working in Microsoft Word, I often need some “junk” text to play around with, for various reasons:
+
+* I’m designing a document and don’t want to get bogged down in what the text actually says.
+
+* I’m creating a template with various paragraph styles and need to see what they will look like.
+
+* I’m creating a macro and need some text for testing purposes.
+
+* I’m trying to learn more about some feature of Microsoft Word and don’t want to practice on a real document.
