@@ -29,4 +29,3 @@ eventEmitter.emit('event3');
 eventEmitter.emit('event4');
 eventEmitter.emit('event5');
 
-
