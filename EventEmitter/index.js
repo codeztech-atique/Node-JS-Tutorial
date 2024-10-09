@@ -13,11 +13,16 @@ eventEmitter.on('event2', () => {
 eventEmitter.on('event3', () => {
    console.log('Event 3');
 })
+eventEmitter.on('event3', () => {
+   console.log('Event 4');
+})
 
 console.log('End');
 
 eventEmitter.emit('event1');
 eventEmitter.emit('event2');
 eventEmitter.emit('event3');
+eventEmitter.emit('event4');
+
 
 

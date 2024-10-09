@@ -1,6 +1,6 @@
 // Explanation of callbacks it wait until unless createPost method data push to const posts
 // Wait for 2 second then execute the code.
-
+// Sample
 
 const posts = [
     { title: 'Title 1', body: 'I am the first Element in array' },
